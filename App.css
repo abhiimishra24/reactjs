@@ -1,0 +1,37 @@
+.app{
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+ align-items: center;
+  }
+  
+  .app_container{
+  margin-top:10px;
+  width:500px;
+  height:500px;
+  border:1px solid black;
+  
+  }
+  
+  .app_input{
+  margin-top:10px;
+  }
+
+.container1 {
+    border: 2px solid white;
+    background-color: grey;
+    border-radius: 5px;
+    padding: 16px;
+    margin: 16px 0
+    
+  }
+
+
+
+  .container2 {
+    border: 2px solid #ccc;
+    background-color: grey;
+    border-radius: 5px;
+    padding: 16px;
+    margin: 16px 0
+  }
